@@ -1,0 +1,33 @@
+PACKET0sent
+ACK0recieved
+PACKET1sent
+ACK1recieved
+PACKET0sent
+ACK0recieved
+PACKET1not sent
+packet was Lost !
+PACKET1sent
+ACK1recieved
+PACKET0sent
+ACK0recieved
+PACKET1sent
+ACK1recieved
+PACKET0sent
+ACK0recieved
+PACKET1not sent
+packet was Lost !
+PACKET1not sent
+packet was Lost !
+PACKET1sent
+ACK1recieved
+PACKET0sent
+ACK0recieved
+PACKET1sent
+ACK1recieved
+PACKET0not sent
+packet was Lost !
+PACKET0sent
+ACK0recieved
+PACKET1sent
+ACK1recieved
+TRANSFER COMPLETED !Elapsed Time = 3.941240072250366 secs

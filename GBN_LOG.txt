@@ -1,0 +1,1381 @@
+number of packets:12Transfer Completed Closing connection
+next sequence number0
+PACKET0sentlength of bytes500
+next sequence number1
+PACKET1sentlength of bytes500
+-PACKET2not sent sent
+next sequence number3
+PACKET3sentlength of bytes500
+next sequence number4
+PACKET4sentlength of bytes500
+next sequence number5
+PACKET5sentlength of bytes500
+next sequence number6
+PACKET6sentlength of bytes500
+-PACKET7not sent sent
+-PACKET8not sent sent
+next sequence number9
+PACKET9sentlength of bytes500
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
+Resending Packet6sent
+length of bytes500
+Resending Packet7sent
+length of bytes500
+Resending Packet8sent
+length of bytes500
+Resending Packet9sent
+length of bytes500
+Done transfering
+Starting timer
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Sleeping
+Resending Packet0sent
+length of bytes500
+Resending Packet1sent
+length of bytes500
+Resending Packet2sent
+length of bytes500
+Resending Packet3sent
+length of bytes500
+Resending Packet4sent
+length of bytes500
+Resending Packet5sent
+length of bytes500
